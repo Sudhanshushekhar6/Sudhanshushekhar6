@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <p align="center">
-  <img src="cover..avif" width="100%" alt="Innovative Background">
+  <img src="cover.jpg" width="100%" alt="Innovative Background">
 </p>
 
 <h1 align="center">🚀 Hi, I'm Sudhanshu! 👋</h1>
