@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d6f7059b5ca9fbff0c2e7f302.gif" width="100%" alt="Innovative Background">
+  <img src="cover..avif" width="100%" alt="Innovative Background">
 </p>
 
 <h1 align="center">🚀 Hi, I'm Sudhanshu! 👋</h1>
